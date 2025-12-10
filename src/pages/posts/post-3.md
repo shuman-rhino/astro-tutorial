@@ -8,6 +8,6 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Astroの光線のサムネイル。"
 pubDate: 2022-07-15
-tags: ["astro", "公開学習", "後退", "コミュニティ"]
+tags: ["astro", "公開学習", "後退", "コミュニティ", "hoge"]
 
 ---
